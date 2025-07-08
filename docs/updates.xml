@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="dnakaeodmhogobhpcfnjojhebgahcgmp">
-    <updatecheck codebase="https://groupe-rand.github.io/OB_RAND_EXT/OB_rand_ext_2.1.1.crx?v=211" version="2.1.1"/>
+    <updatecheck codebase="https://groupe-rand.github.io/OB_RAND_EXT/OB_rand_ext_2.1.2.crx" version="2.1.2"/>
   </app>
 </gupdate>
